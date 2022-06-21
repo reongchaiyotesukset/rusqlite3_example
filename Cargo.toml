@@ -19,4 +19,4 @@ rustflags = [
 
 [build-dependencies]
 winres = "0.1"
-image = "0.21.1"
+image = "0.23.12"
